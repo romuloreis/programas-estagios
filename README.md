@@ -11,4 +11,6 @@ Dell IT Academy
 
 [Thoughtworks](https://www.thoughtworks.com/)
 
+[Cielo - Programa de Estágio TECH Cielo](https://programaestagiotech.gupy.io/)
+
 [Apple Academy](https://developeracademy.eldorado.org.br/poa/)
