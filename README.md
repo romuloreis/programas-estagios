@@ -13,6 +13,12 @@ Dell IT Academy
 
 [Cielo - Programa de Estágio TECH Cielo](https://programaestagiotech.gupy.io/)
 
-[Apple Academy](https://developeracademy.eldorado.org.br/poa/)
+[CWI Crescer](https://cwi.com.br/talentos/formacao/crescer/#conteudo)
+
+[Braskem](https://www.braskem.com.br/carreiras-estagio-universitario)
 
 [Waren Tech Academy](https://warren.com.br/magazine/warren-tech-academy/)
+
+[SAP](https://jobs.sap.com/job/S%C3%A3o-Leopoldo-Rotation-Program-Internship-2023-%40-SAP-Labs-LA-VTSTAR-93022-718/838418501/)
+
+[Apple Academy](https://developeracademy.eldorado.org.br/poa/)
